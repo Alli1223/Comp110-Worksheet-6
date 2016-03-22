@@ -7,4 +7,8 @@
 
 ##UML Diagram for oxygen system
 
+###UML Use Case Diagram:
 ![UML](https://raw.githubusercontent.com/Alli1223/Worksheet-6/master/UML%20diagrams/Use_Case%20Diagram.png "UML Use Case")
+
+###UML State Diagram:
+![UML](https://raw.githubusercontent.com/Alli1223/Worksheet-6/master/UML%20diagrams/Simple%20State%20Diagram.png "State Diagram")
