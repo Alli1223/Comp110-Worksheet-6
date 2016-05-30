@@ -1,7 +1,7 @@
 # Worksheet-6
 
 
-##Flowchart for the fire system:
+##Flowchart for the oxygen & fire system:
 
 ![text](https://raw.githubusercontent.com/Alli1223/Worksheet-6/master/Flowchart/Fire_Flowchart.png "Flowchart")
 
@@ -13,9 +13,17 @@
 ###UML State Diagram:
 ![UML](https://raw.githubusercontent.com/Alli1223/Worksheet-6/master/UML%20diagrams/Simple%20State%20Diagram.png "State Diagram")
 
+###UML Sequence Diagram:
+![UML](https://raw.githubusercontent.com/Alli1223/Comp110-Worksheet-6/master/UML%20diagrams/UML%20Sequence%20Diagram.png "Sequence Diagram")
+
+###UML Sequence Diagram:
+![UML](https://raw.githubusercontent.com/Alli1223/Comp110-Worksheet-6/master/UML%20diagrams/UML%20class%20Diagram%20One.png "Class Diagram 1")
+
+
+
 ___ 
 
-Pseudocode code:
+##Pseudocode code:
 
 ```
 For Each cell in grid
