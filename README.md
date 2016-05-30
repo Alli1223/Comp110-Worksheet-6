@@ -12,3 +12,19 @@
 
 ###UML State Diagram:
 ![UML](https://raw.githubusercontent.com/Alli1223/Worksheet-6/master/UML%20diagrams/Simple%20State%20Diagram.png "State Diagram")
+
+___ 
+
+Pseudocode code:
+
+```
+For Each cell in grid
+    IF cell > cell + 1
+        decrement cell
+        increment cell + 1
+    ELSE IF cell < cell + 1
+        increment cell
+        decrement cell + 1
+    END ELSE IF
+END FOR EACH
+```    
